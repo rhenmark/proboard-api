@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Air Max 270",
+      "description": "The Nike Air Max 270 is a comfortable, stylish shoe with a 270-degree air cushion for maximum impact protection.",
+      "price": 119.99
+    },
+    {
+      "id": 2,
+      "title": "Nike Dri-FIT Running Shirt",
+      "description": "The Nike Dri-FIT Running Shirt is made of moisture-wicking fabric to help keep you dry and comfortable during your run.",
+      "price": 39.99
+    },
+    {
+      "id": 3,
+      "title": "Nike Pro Leggings",
+      "description": "The Nike Pro Leggings are made of stretchy, sweat-wicking fabric to help keep you dry and comfortable during your workout.",
+      "price": 59.99
+    },
+    {
+      "id": 4,
+      "title": "Nike Zoom Pegasus 35 Turbo",
+      "description": "The Nike Zoom Pegasus 35 Turbo is a responsive, high-performance running shoe with Zoom Air cushioning for a smooth, comfortable ride.",
+      "price": 159.99
+    },
+    {
+      "id": 5,
+      "title": "Nike Metcon 5",
+      "description": "The Nike Metcon 5 is a durable, high-performance training shoe with a sticky rubber sole and a supportive fit.",
+      "price": 119.99
+    },
+    {
+      "id": 6,
+      "title": "Nike Air Force 1",
+      "description": "The Nike Air Force 1 is a classic, low-cut sneaker with a clean, timeless design.",
+      "price": 94.99
+    },
+    {
+      "id": 7,
+      "title": "Nike Cortez",
+      "description": "The Nike Cortez is a retro-inspired running shoe with a cushioned sole and a sleek, streamlined silhouette.",
+      "price": 74.99
+    },
+    {
+      "id": 8,
+      "title": "Nike Air Huarache",
+      "description": "The Nike Air Huarache is a comfortable, stylish shoe with a breathable upper and a flexible sole.",
+      "price": 109.99
+    },
+    {
+      "id": 9,
+      "title": "Nike Tech Fleece Hoodie",
+      "description": "The Nike Tech Fleece Hoodie is made of lightweight, insulated fabric to help keep you warm and comfortable.",
+      "price": 109.99
+    },
+    {
+      "id": 10,
+      "title": "Nike SB Dunk Low",
+      "description": "The Nike SB Dunk Low is a skate shoe with a low-cut silhouette and a durable, grippy sole.",
+      "price": 84.99
+    },
+    {
+      "id": 11,
+      "title": "Nike Dri-FIT Hat",
+      "description": "The Nike Dri-FIT Hat is made of moisture-wicking fabric to help keep you dry and comfortable during your workout.",
+      "price": 24.99
+    }
+  ]
+}
